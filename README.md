@@ -76,7 +76,7 @@ Exploring the progression from biological neuron models to spiking neural networ
 
 ## 📫 Connect
 
-🌐 [Personal Website](https://eshapenmatsa.com)
+🌐 [Personal Website](https://www.eshapenmatsa.com/index)
 
 💼 [LinkedIn](https://www.linkedin.com/eshapenmatsa)
 
